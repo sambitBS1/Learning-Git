@@ -1,4 +1,5 @@
 Learning Gitflow.
 Understanding Gitflow.
-
 ReleaseBranch Change.
+MasterBranch Change.
+>>>>>>> 3e5364eb33293640271b126d330fcf99f0cdfdcb
